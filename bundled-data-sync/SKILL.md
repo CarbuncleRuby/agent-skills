@@ -1,6 +1,6 @@
 ---
 name: bundled-data-sync
-description: Keep one dataset consistent when it is copied into several bundles of an app or static site — a main app, workers, a replay engine — and archive each version under a content hash so saved replays and histories keep playing. Use when the same catalog, deck list, level data, or other records live in more than one file or bundle, when copies have drifted, or before changing data that saved replays depend on. Keywords: duplicated data, catalog, worker copy, replay, out of sync, content hash.
+description: Keep one dataset consistent when it is copied into several bundles of an app or static site — a main app, workers, a replay engine — and archive each version under a content hash so saved replays and histories keep playing. Use when the same catalog, deck list, level data, or other records live in more than one file or bundle, when copies have drifted, or before changing data that saved replays depend on. Keywords — duplicated data, catalog, worker copy, replay, out of sync, content hash.
 ---
 
 # Bundled data sync and archive
