@@ -1,0 +1,14 @@
+# Term registry.
+# IDs are stable and never reused or renamed. Display names and definitions
+# may change; record the change as a new registry version, not an edit of
+# history. Code identifiers and JSON keys referenced here never change.
+version: 1
+terms:
+  - id: T001
+    name: "example-term"
+    definition: "One or two sentences that fix what this term means here."
+    aliases: []
+    code_identifiers: []   # e.g. function names, config keys
+    json_keys: []          # keys in the canonical run JSONs
+    status: active         # active | superseded (point to the successor in notes)
+    notes: ""
