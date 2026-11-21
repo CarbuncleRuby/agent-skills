@@ -1,6 +1,6 @@
 ---
 name: branch-point-check
-description: At the start of a new task or project, before hands-on work begins, identify the important branch points — the places where the work should stop for the user's decision — and present them for confirmation alongside the plan. A branch point is a step that is expensive to get wrong: irreversible, outward-facing (sending, publishing, submitting, paying), a direction decision that shapes everything after it, or a large consumption of time, money or compute. Use this when a new multi-step piece of work begins. Do not use it for a continuation of work whose branch points were already agreed, for a single trivial step, or to manufacture checkpoints where none exist — if there are no branch points, say so in one line and proceed.
+description: "At the start of a new task or project, before hands-on work begins, identify the important branch points — the places where the work should stop for the user's decision — and present them for confirmation alongside the plan. A branch point is a step that is expensive to get wrong: irreversible, outward-facing (sending, publishing, submitting, paying), a direction decision that shapes everything after it, or a large consumption of time, money or compute. Use this when a new multi-step piece of work begins. Do not use it for a continuation of work whose branch points were already agreed, for a single trivial step, or to manufacture checkpoints where none exist — if there are no branch points, say so in one line and proceed."
 ---
 
 # Branch Point Check
