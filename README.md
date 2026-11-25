@@ -25,6 +25,8 @@ detection, retry cutoffs, verify-before-report. |
 collecting, minimal data, CAPTCHA and proxy-entry rules, per-submission confirmation, entry records. Sweepstakes entry is the worked example. |
 
 | `experiment-record-standard` | Set up experiment records from day one so results stay traceable and reusable: a claims ledger with confirmation status (confirmatory / exploratory / retracted), canonical run JSONs, a term registry with stable IDs, a decision log kept separate from the work log, and a retracted-expressions list. Includes the full standard and templates for the five records. |
+| `paper-introduction` | Introduce a paper in chat with a fixed-format card (title, authors and affiliations, a concrete labelled date, the abstract translated into the user's preferred language), then the explanation outside the card. |
+| `responsive-mobile-layout` | Phone-first web layout that fits the device: dvh fit-screens with one flex absorber, safe-area padding, fluid type, overflow prevention, and the rule that state changes never change geometry. |
 
 
 ## License
